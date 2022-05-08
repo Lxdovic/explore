@@ -1,0 +1,23 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+#cursor {
+    pointer-events: none
+}
+
+#timeline-1 {
+    pointer-events: none
+}
+
+#timeline-2 {
+    pointer-events: none
+}
+
+#timeline-3 {
+    pointer-events: none
+}
+
+#panel-1 {
+    pointer-events: none
+}

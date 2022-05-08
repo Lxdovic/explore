@@ -1,0 +1,11 @@
+Model Information:
+* title:	xrEvolution n.a.i.  POINTCLOUD III
+* source:	https://sketchfab.com/3d-models/xrevolution-nai-pointcloud-iii-ce80df01424947659f912e24e649a648
+* author:	MWintersberger (https://sketchfab.com/mwintersberger)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "xrEvolution n.a.i.  POINTCLOUD III" (https://sketchfab.com/3d-models/xrevolution-nai-pointcloud-iii-ce80df01424947659f912e24e649a648) by MWintersberger (https://sketchfab.com/mwintersberger) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

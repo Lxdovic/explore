@@ -1,0 +1,247 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        455.0966491699219,
+        44.09064865112305,
+        347.8856506347656
+      ],
+      "min": [
+        -219.47052001953125,
+        -34.8403205871582,
+        -321.5422668457031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 786420,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        0.9999990463256836,
+        0.9999914169311523,
+        0.9999639987945557
+      ],
+      "min": [
+        -0.99982088804245,
+        -0.9999639987945557,
+        -0.9999168515205383
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1572840,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        450.3272399902344,
+        41.44527053833008,
+        378.06976318359375
+      ],
+      "min": [
+        -220.6514129638672,
+        -30.217622756958008,
+        -321.830078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2359260,
+      "componentType": 5126,
+      "count": 65535,
+      "max": [
+        0.9999990463256836,
+        0.9999990463256836,
+        0.9994964599609375
+      ],
+      "min": [
+        -0.9999756813049316,
+        -0.9998891353607178,
+        -0.9999874830245972
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3145680,
+      "componentType": 5126,
+      "count": 12133,
+      "max": [
+        282.767578125,
+        42.08586502075195,
+        346.0143737792969
+      ],
+      "min": [
+        -32.53199005126953,
+        -20.289039611816406,
+        -322.85601806640625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 3291276,
+      "componentType": 5126,
+      "count": 12133,
+      "max": [
+        0.10325629264116287,
+        -0.01630362495779991,
+        0.9945211410522461
+      ],
+      "min": [
+        0.10325629264116287,
+        -0.01630362495779991,
+        0.9945211410522461
+      ],
+      "type": "VEC3"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "MWintersberger (https://sketchfab.com/mwintersberger)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/xrevolution-nai-pointcloud-iii-ce80df01424947659f912e24e649a648",
+      "title": "xrEvolution n.a.i.  POINTCLOUD III"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3436872,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3436872,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        0.0,
+        1.0
+      ],
+      "name": "Scene_-_Root",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.008482818848994891,
+          0.29291270294726746,
+          0.5684522089150541,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.24434847904468315
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 3,
+            "POSITION": 2
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4
+          },
+          "material": 0,
+          "mode": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.9986186027526855,
+        0.05254390463232994,
+        -0.00022898428142069605,
+        0.0,
+        -0.05248969793319702,
+        0.997768223285675,
+        0.04127181321382545,
+        0.0,
+        0.0023970555048435926,
+        -0.04120278358459495,
+        0.9991479516029358,
+        0.0,
+        0.33853188157081604,
+        17.97002029418946,
+        -32.37243652343749,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "Geode"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
